@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu1" type="id" />
+    <item name="menu2" type="id" />
+    <item name="menu3" type="id" />
+    <item name="menu4" type="id" />
+    <item name="lvData1" type="id" />
+    <item name="lvData2" type="id" />
+    <item name="action_settings" type="id" />
+</resources>

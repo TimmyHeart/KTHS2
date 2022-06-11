@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable/btn.xml" value="0.1435" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/drawable/mymenu.xml" value="0.1435" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_bai1.xml" value="0.22" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_bai2.xml" value="0.25" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_bai3.xml" value="0.25" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_item.xml" value="0.33" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_listitem_shop.xml" value="0.151268115942029" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_listview1.xml" value="0.15307971014492755" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_listview2.xml" value="0.15307971014492755" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_listview3.xml" value="0.22" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_listview4.xml" value="0.151268115942029" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_product.xml" value="0.151268115942029" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_thongtin.xml" value="0.18" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/layout/activity_ttsv.xml" value="0.33" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/TT_LTMP/KT_TranHieuNghia/app/src/main/res/menu/mymenu.xml" value="0.25" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_bai6.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_item.xml" value="0.33" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_listitem_shop.xml" value="0.33" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_listview3.xml" value="0.26875" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_product.xml" value="0.26875" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/activity_ttsv.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/item.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/layout/listitem2_product.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/menu/menu_main.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/KT_TranHieuNghia/app/src/main/res/menu/mymenu.xml" value="0.12552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
